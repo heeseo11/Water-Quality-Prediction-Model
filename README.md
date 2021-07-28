@@ -32,11 +32,11 @@
 
 <img src = "https://user-images.githubusercontent.com/61724682/127346219-cb97d959-a360-4100-8edd-6ae12d3b083f.png" width="30%" height="30%">
 
-    - python 지리 데이터 시각화 라이브러리인 folium 활용
+      - python 지리 데이터 시각화 라이브러리인 folium 활용
 
-    - 결과 
-    
-    - 해석
+      - 결과
+
+      - 해석
 
 - **ARIMA model**
 
