@@ -48,4 +48,6 @@
 
 - **ARIMA model**
 
-    - 
+
+- **LSTM model**
+
